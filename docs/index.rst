@@ -6,13 +6,19 @@
 Welcome to MolSSIExample's documentation!
 =========================================================
 
+This is an introduction for my package
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    getting_started
-   api
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Developer Guide:
+
+   api
 
 
 Indices and tables
